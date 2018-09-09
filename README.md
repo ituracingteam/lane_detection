@@ -21,7 +21,7 @@
 * OpenCV ile ilgili çalışmalarım: ```https://github.com/enesdemirag/opencv_lectures```
 * Üzerinde çalışıp optimize etmeye çalıştığımız kod: ```https://github.com/shawpan/lane-detector```
 
-![alt text](https://github.com/ituracingteam/lane_detection/src/test_files/flowchart.png "flowchart")
+![alt text](https://github.com/ituracingteam/lane_detection/tree/master/src/flowchart.png "flowchart")
 
 1. Kamera görüntüsünü almak
 2. OpenCV ile şerit renginin filtrelenmesi
